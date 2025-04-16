@@ -1,3 +1,7 @@
+### This script reads in the results of the regression model, input parameters varied and the outbreak
+### trait of interest calculated. Final result is a composed figure with 6 plots (5 scatter and 1 bar chart) 
+### showing feature importance followed by scatter plots of the trends.
+
 import matplotlib.pyplot as plt
 import numpy as np # type: ignore
 import pandas as pd
