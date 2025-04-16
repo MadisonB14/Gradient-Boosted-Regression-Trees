@@ -15,4 +15,4 @@ Outbreak traits of interest:
 * rate of spread
 * global seroprevalence at 1 year
 
-NOTE: If using these scripts, cross validate first and then run the regression code with the parameters resulting in the highest $R^2$ value. 
+NOTE: If using these scripts, cross validate first and then run the regression code with the parameters resulting in the highest $R^2$ value. Additional scripts included to visualize results in both box and whisker plots and scatter plots.
